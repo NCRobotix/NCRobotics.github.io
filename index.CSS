@@ -1,3 +1,10 @@
 body{
   color: white;
+  font-family: Arial, Sans-Arial;
+  background: linear-gradient(to right, # 3D9CF1, #F5F5F5);
+}
+
+.intro{
+  margin: auto;
+  padding: auto;
 }
