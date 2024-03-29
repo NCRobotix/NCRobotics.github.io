@@ -1,9 +1,10 @@
 html{
   font-family: Arial, sans-serif;
-  color: linear-gradient(90degs, #3D9CF1, #F5F5F5);
+  background: linear-gradient(90degs, #3D9CF1, #F5F5F5);
 }
 
 .intro{
   margin: auto;
   padding: auto;
+  object-position: center;
 }
