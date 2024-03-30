@@ -4,11 +4,12 @@ body {
   font-family: Arial, sans-serif;
   background-color: #DFDFDF;
 }
-//linear-gradient(90degs, rgb(245, 245, 245), rgb(61, 156, 241))
+
 #intro section {
   margin: auto;
   padding: auto;
-  object-position: center;
+  align-items: center;
+  background: linear-gradient(90degs, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
 @media (prefers-reduced-motion: no-preference) {
