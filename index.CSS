@@ -10,3 +10,9 @@ body {
   padding: auto;
   object-position: center;
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
