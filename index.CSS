@@ -2,7 +2,7 @@ body {
   width: 100%;
   height: 100vh;
   font-family: Arial, sans-serif;
-  background-color: gray;
+  background-color: #DFDFDF;
 }
 //linear-gradient(90degs, rgb(245, 245, 245), rgb(61, 156, 241))
 #intro section {
