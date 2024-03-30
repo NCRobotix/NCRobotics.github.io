@@ -3,7 +3,7 @@ html, body{
   background-image: linear-gradient(90degs, #3D9CF1, #F5F5F5);
 }
 
-section .intro{
+#intro section{
   margin: auto;
   padding: auto;
   object-position: center;
