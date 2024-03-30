@@ -9,7 +9,7 @@ body {
   margin: auto;
   padding: auto;
   align-items: center;
-  background: linear-gradient(90degs, rgb(245, 245, 245), rgb(61, 156, 241));
+  background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
 #header {
