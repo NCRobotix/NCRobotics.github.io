@@ -12,6 +12,11 @@ body {
   background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
+#header {
+  font-weight: bold;
+  font-size: 200%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   * {
     scroll-behavior: smooth;
