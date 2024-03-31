@@ -1,5 +1,5 @@
 html{
-  min-width: 100%;
+  
 }
 
 body {
@@ -7,6 +7,7 @@ body {
   height: 100vh;
   font-family: Arial, sans-serif;
   background-color: #CFCFCF;
+line-height: 1.5;
 }
 
 #intro {
@@ -20,11 +21,37 @@ body {
   position: fixed;
   min-width: 290px;
   top: 0px;
-  left: 0px;
   width: 300px;
   height: 100%;
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
+}
+
+#navbar ul {
+  height: 88%;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#navbar li {
+  color: #4d4e53;
+  border-top: 1px solid;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: #4d4e53;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
 }
 
 .header{
@@ -35,10 +62,6 @@ body {
   font-size: 720px;
   font-weight: bold;
   color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241);
-}
-
-.header p{
-  font-size: 150%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
