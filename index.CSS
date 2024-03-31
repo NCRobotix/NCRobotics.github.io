@@ -16,7 +16,7 @@ body {
 #top-of-page{
   height: 300px;
   position: fixed;
-  color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
+  background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
 #navbar {
