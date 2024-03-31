@@ -27,10 +27,18 @@ body {
   border-color: rgba(0, 22, 22, 0.4);
 }
 
-.header {
-  font-weight: bold;
-  font-size: 200%;
+.header{
   text-align: center;
+}
+
+.header h1{
+  font-size: 720px;
+  font-weight: bold;
+  color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241);
+}
+
+.header p{
+  font-size: 150%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
