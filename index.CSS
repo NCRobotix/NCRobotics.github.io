@@ -2,12 +2,10 @@ body {
   height: 100vh;
   font-family: Arial, sans-serif;
   background-color: #CFCFCF;
-  line-height: 1.5;
 }
 
 #intro {
   margin: auto;
-  padding: auto;
   align-items: center;
   background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
