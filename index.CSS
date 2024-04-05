@@ -47,6 +47,13 @@ body {
   cursor: pointer;
 }
 
+#main-doc{
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+
 section li {
   margin: 15px 0px 0px 20px;
 }
