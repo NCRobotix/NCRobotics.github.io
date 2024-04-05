@@ -20,6 +20,7 @@ body {
   min-height: 500px;
   top: 0px;
   height: 100%;
+  color: rgb(61, 156, 241);
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
 }
