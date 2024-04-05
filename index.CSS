@@ -17,19 +17,23 @@ body {
 
 #navbar {
   position: fixed;
-  min-height: 500px;
+  min-height: 800px;
   top: 0px;
   height: 100%;
-  color: rgb(61, 156, 241);
+  background-color: rgb(61, 156, 241);
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
 }
 
 #navbar ul {
-  height: 88%;
+  height: 100%;
   padding: 0;
   overflow-y: auto;
   overflow-x: hidden;
+}
+
+nav header{
+  font-size: 720px;
 }
 
 #navbar li {
