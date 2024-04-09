@@ -2,19 +2,19 @@
   text-weight: 150%;
 }
 
-#intro {
+section #intro {
   height: 20vh;
 }
 
-#profile{
+section #profile{
   height: 20vh;
 }
 
-#hobbies{
+section #hobbies{
   height: 300%;
 }
 
-#contact{
+section #contact{
   background-color: rgb(15, 15, 15);
   
 }
