@@ -2,6 +2,18 @@
   text-weight: 150%;
 }
 
+#intro {
+  height: 300%;
+}
+
+#profile{
+  height: 300%;
+}
+
+#hobbies{
+  height: 300%;
+}
+
 #contact{
   background-color: rgb(15, 15, 15);
   
