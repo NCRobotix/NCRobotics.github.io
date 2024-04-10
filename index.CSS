@@ -64,6 +64,28 @@ section li {
   margin: 15px 0px 0px 20px;
 }
 
+.header p{
+  text-weight: 100%;
+}
+
+.intro {
+  background-color: rgb(0, 0, 0);
+  height: 20vh;
+}
+
+section #profile{
+  height: 20vh;
+}
+
+section #hobbies{
+  height: 300%;
+}
+
+section #contact{
+  background: rgb(15, 15, 15);
+  
+}
+
 .header{
   text-align: center;
 }
