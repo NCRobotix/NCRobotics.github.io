@@ -75,7 +75,6 @@ section li {
 
 #intro img {
   display: flex;
-  position: fixed;
   flex-wrap: wrap;
   align-items: center;
   margin: auto;
