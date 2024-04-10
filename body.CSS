@@ -2,9 +2,11 @@
   text-weight: 150%;
 }
 
-section #intro {
-  height: 20vh;
+#intro {
   background-color: rgb(0, 0, 0);
+  section{
+    height: 20vh;
+  }
 }
 
 section #profile{
