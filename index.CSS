@@ -74,8 +74,9 @@ section li {
 }
 
 #intro img {
-  display: block;
+  display: flex;
   position: fixed;
+  flex-wrap: wrap;
   align-items: center;
   margin: auto;
 }
