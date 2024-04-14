@@ -18,7 +18,7 @@ body {
 
 #navbar {
   position: fixed;
-  max-height: 400px;
+  min-height: 400px;
   min-width 100px:
   background-color: rgb(61, 156, 241);
   border-right: solid;
