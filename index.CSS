@@ -80,7 +80,7 @@ section li {
 }
 
 #intro img {
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   align-items: center;
   margin: 20px;
