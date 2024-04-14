@@ -83,7 +83,7 @@ section li {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin: auto;
+  margin: 20px;
 }
 
 section #profile{
