@@ -17,13 +17,13 @@ body {
 
 nav{
   max-height: 100%;
-  background-color: rgb(61, 156, 241);
+  
 }
 
 #navbar {
   position: fixed;
   min-width 100px:
-  
+  background-color: rgb(61, 156, 241);
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
 }
