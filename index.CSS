@@ -17,6 +17,10 @@ body {
   background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
+li a:hover {
+  background-color: rgb(61, 136, 251);
+}
+
 #navbar {
   position: fixed;
   display: block;
@@ -107,9 +111,7 @@ section #contact{
   color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241);
 }
 
-li a:hover{
-  background-color: rgb(61, 136, 251);
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   * {
