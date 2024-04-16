@@ -49,6 +49,7 @@ nav header{
 }
 
 #navbar li a:hover {
+  display: block;
   background-color: rgb(61, 136, 251);
   color: #FFFFFF;
 }
@@ -111,8 +112,6 @@ section #contact{
   font-weight: bold;
   color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241);
 }
-
-
 
 @media (prefers-reduced-motion: no-preference) {
   * {
