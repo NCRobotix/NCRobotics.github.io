@@ -64,6 +64,7 @@ nav header{
 
 section{
   height: 100%;
+  width: fit-content;
 }
 
 section li {
