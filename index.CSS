@@ -74,6 +74,7 @@ section li {
 }
 
 #intro {
+  background-color: #FFFFFF;
   height: 40vh;
   margin: 0;
   max-width: 100%;
@@ -86,17 +87,16 @@ section li {
   margin: 20px;
 }
 
-section #profile{
-  
+#profile{
+  background-color: #CFCFCF;
 }
 
-section #hobbies{
+#hobbies{
   height: 300%;
 }
 
-section #contact{
+#contact{
   background-color: #CFCFCF;
-  
 }
 
 .header{
