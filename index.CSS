@@ -6,11 +6,6 @@ body {
   padding: 0;
 }
 
-#intro {
-  align-items: center;
-  background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
-}
-
 #top-of-page{
   height: 300px;
   position: fixed;
