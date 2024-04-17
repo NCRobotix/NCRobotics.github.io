@@ -82,11 +82,11 @@ section li {
   background-color: rgb(0, 0, 0);
   height: 40vh;
   max-width: 100%;
+  width: fit-content;
 }
 
 #intro img {
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   align-items: center;
   margin: 20px;
 }
