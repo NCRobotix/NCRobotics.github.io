@@ -46,6 +46,7 @@ nav header{
   list-style: none;
   position: relative;
   width: 100%;
+  min-width: 150px;
 }
 
 #navbar li a:hover {
