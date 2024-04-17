@@ -1,7 +1,7 @@
 body {
   height: 100vh;
   font-family: Arial, sans-serif;
-  background-color: #CFCFCF;
+  background-color: #FFFFFF;
   margin: 0;
   padding: 0;
 }
@@ -101,7 +101,7 @@ section #hobbies{
 }
 
 section #contact{
-  background: rgb(15, 15, 15);
+  background-color: #CFCFCF;
   
 }
 
