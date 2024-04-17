@@ -9,7 +9,6 @@ body {
 #top-of-page{
   height: 300px;
   position: fixed;
-  background: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241));
 }
 
 #navbar {
@@ -18,6 +17,7 @@ body {
   height: 100%;
   min-width 150px:
   background-color: rgb(61, 156, 241);
+  background: rgb(61, 156, 241);
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
 }
