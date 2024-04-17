@@ -46,7 +46,7 @@ nav header{
   list-style: none;
   position: relative;
   width: 100%;
-  min-width: 150px;
+  min-height: 150px;
 }
 
 #navbar li a:hover {
@@ -81,6 +81,7 @@ section li {
 #intro {
   background-color: rgb(0, 0, 0);
   height: 40vh;
+  margin: 0;
   max-width: 100%;
   width: fit-content;
 }
