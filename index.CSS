@@ -7,6 +7,12 @@ body {
   padding: 0;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
 #top-of-page{
   height: 300px;
   position: fixed;
@@ -113,10 +119,4 @@ section li {
   font-size: 720px;
   font-weight: bold;
   color: linear-gradient(90deg, rgb(245, 245, 245), rgb(61, 156, 241);
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  * {
-    scroll-behavior: smooth;
-  }
 }
