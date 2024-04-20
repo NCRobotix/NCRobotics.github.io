@@ -111,6 +111,11 @@ section li {
   background-color: #CFCFCF;
 }
 
+#contact{
+  height: fit-content;
+  background-color: linear-gradient(180degs, rgb(61, 156, 241), rgb(61, 136, 255));
+}
+
 .header{
   text-align: center;
 }
